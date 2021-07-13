@@ -1,0 +1,32 @@
+
+
+h1{
+    color: rgb(54, 14, 175);
+    border: 6px solid rgb(243, 246, 244);
+   background-color: rgb(69, 189, 193);
+}
+body{
+    background-color: rgb(211, 87, 203);
+  
+}
+img{
+    border:8px solid rgb(242, 237, 237);
+    border-radius: 40px;
+    background-color:rgb(12, 12, 12);
+}
+p{
+    font-family:cursive;
+    font-weight: lighter;
+    font-size: large
+}
+ul{
+font-style: oblique;
+}
+li{
+    color: cornsilk;
+}
+
+h2{
+    color: cornsilk;
+}
+

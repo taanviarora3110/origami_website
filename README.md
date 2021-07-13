@@ -1,1 +1,1 @@
-# origami_website
+# origami-website
